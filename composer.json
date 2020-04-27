@@ -1,0 +1,13 @@
+{
+    "name": "sayacloud/mafu-regular-customer-sdk",
+    "description": "Mafu Regular customer api sdk",
+    "type": "library",
+    "authors": [
+        {
+            "name": "wenqidong",
+            "email": "wqd1688@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
